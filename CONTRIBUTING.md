@@ -35,8 +35,3 @@ Quick links
 * [Coding guidelines](http://scikit-learn.org/dev/developers/contributing.html#coding-guidelines)
 * [Tips to read current code](http://scikit-learn.org/dev/developers/contributing.html#reading-code)
 
-Code of Conduct
----------------
-
-We abide by the principles of openness, respect, and consideration of others
-of the Python Software Foundation: https://www.python.org/psf/codeofconduct/.
